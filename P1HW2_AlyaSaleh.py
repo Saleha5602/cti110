@@ -15,7 +15,7 @@
 #Write program Pseudocode (detail algorithm)
 #and add it as a comment block to the submitted program. 
 print('This Program Calculate the expenses')
-user_num1=int(input("Enter Budget:"))
+user_num1=int(input("Enter Budgets:"))#A git test
 user_num2=input("Enter your travel destination:")
 user_num3=int(input("How much do you think you will spend on gas?"))
 user_num4=int(input("Approximately, how much will you need for accomodation/hotel?"))
